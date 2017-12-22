@@ -1,3 +1,3 @@
 # FTBHorizonsIII
 
-## FTB Horizons III Ver 1.4.0
+## FTB Horizons III Ver 1.5.0

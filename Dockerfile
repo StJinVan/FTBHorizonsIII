@@ -14,7 +14,7 @@ RUN adduser -D minecraft && \
     mkdir -p /minecraft/world && \
     mkdir -p /minecraft/cfg && \
     mkdir -p /minecraft/backups &&\
-    curl -SLO http://ftb.cursecdn.com/FTB2/modpacks/FTBHorizonsIII/1_4_0/FTBHorizonsIIIServer.zip  && \
+    curl -SLO http://ftb.cursecdn.com/FTB2/modpacks/FTBHorizonsIII/1_5_0/FTBHorizonsIIIServer.zip  && \
     unzip FTBHorizonsIIIServer.zip && \
     chmod u+x *.sh && \
     echo "eula=true" > /minecraft/eula.txt && \
